@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
