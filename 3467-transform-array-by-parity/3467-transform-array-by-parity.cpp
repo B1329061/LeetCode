@@ -2,12 +2,10 @@ class Solution {
 public:
     vector<int> transformArray(vector<int>& nums) {
         vector<int>res;
-        unordered_map<int,int>mp;
         for(auto it:nums){
-            if(!(it%2))mp[0]++;
-            else mp[1]++;
-        }res.insert(res.end(),mp[0],0);
-        res.insert(res.end(),mp[1],1);
+            if(!(it%2))res.push_back(0);
+            else res.push_back(1);
+        }sort(res.begin(),res.end());
         
         return res;
     }
