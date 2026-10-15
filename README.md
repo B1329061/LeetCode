@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2643-row-with-maximum-ones](https://github.com/B1329061/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/B1329061/LeetCode/tree/master/2643-row-with-maximum-ones) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
