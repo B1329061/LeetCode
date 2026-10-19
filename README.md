@@ -79,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/B1329061/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
