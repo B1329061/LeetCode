@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/B1329061/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/B1329061/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/B1329061/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/B1329061/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Matrix
