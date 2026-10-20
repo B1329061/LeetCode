@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/B1329061/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/B1329061/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
