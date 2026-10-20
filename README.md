@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/B1329061/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
+## Stack
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
