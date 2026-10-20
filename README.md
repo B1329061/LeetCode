@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -146,4 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
