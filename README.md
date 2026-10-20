@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
