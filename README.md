@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/B1329061/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/B1329061/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/B1329061/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/B1329061/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/B1329061/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/B1329061/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/B1329061/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Counting Sort
 |  |
 | ------- |
