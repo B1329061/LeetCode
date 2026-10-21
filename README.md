@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
