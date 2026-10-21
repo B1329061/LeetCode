@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/B1329061/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/B1329061/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
 | [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
