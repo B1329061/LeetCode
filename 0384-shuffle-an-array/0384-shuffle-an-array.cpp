@@ -16,11 +16,6 @@ public:
     vector<int> reset() {
         return ref;
     }
-    
-    int factor(int size){
-        if(size<=2)return size;
-        return size*factor(size-1);
-    }
     vector<int> shuffle() {
         std::shuffle(res.begin(),res.end(),rng);
         return res;
