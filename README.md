@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/B1329061/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 ## Stack
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
