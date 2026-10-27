@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1796-second-largest-digit-in-a-string](https://github.com/B1329061/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/B1329061/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/B1329061/LeetCode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1796-second-largest-digit-in-a-string](https://github.com/B1329061/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
