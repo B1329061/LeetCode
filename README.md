@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/B1329061/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3783-mirror-distance-of-an-integer](https://github.com/B1329061/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -200,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/B1329061/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/B1329061/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
