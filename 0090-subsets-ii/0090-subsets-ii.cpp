@@ -1,7 +1,7 @@
 class Solution {
 private:
     inline void build(vector<int>& ref,int start,vector<int>& path,vector<vector<int>>& res,set<vector<int>>& st){
-        if(!st.count(path))res.push_back(path);
+        res.push_back(path);
         for(auto it=start;it<ref.size();++it){
             path.push_back(ref[it]);
             build(ref,it+1,path,res,st);
