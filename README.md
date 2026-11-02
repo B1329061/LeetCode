@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/B1329061/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/B1329061/LeetCode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
 | [1796-second-largest-digit-in-a-string](https://github.com/B1329061/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
+| [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/B1329061/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/B1329061/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/B1329061/LeetCode/tree/master/0090-subsets-ii) |
+| [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
 ## Number Theory
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/B1329061/LeetCode/tree/master/2427-number-of-common-factors) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
