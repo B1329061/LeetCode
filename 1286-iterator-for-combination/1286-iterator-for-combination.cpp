@@ -2,11 +2,11 @@ class CombinationIterator {
 private:
     string ref;
     int len;
-    vector<vector<char>>comb;
-    vector<char>path;
+    vector<string>comb;
+    string path="";
     int cur{0};
 public:
-    inline void build(vector<char>& ref,int start,vector<char>& path,vector<vector<char>>& res,int len){
+    inline void build(vector<char>& ref,int start,string& path,vector<string>& res,int len){
         if(path.size()==len)res.push_back(path);
         for(auto it=start;it<ref.size();++it){
             path.push_back(ref[it]);
@@ -19,27 +19,16 @@ public:
         for(char it:s)ret.push_back(it);
         return ret;
     }
-    string tost(vector<char>& ref){
-        string ret="";
-        for(char it:ref)ret.push_back(it);
-        return ret;
-    }
-    /*void call(vector<vector<char>>& ref){
-        for(int i=0;i<ref.size();++i){
-            for(int j=0;j<ref[i].size();++j)cout<<ref[i][j]<<" ";
-            cout<<endl;
-        }
-    }*/
+    
     CombinationIterator(string characters, int combinationLength) {
         this->ref=characters;
         this->len=combinationLength;
         vector<char>temp=conv(ref);
         build(temp,0,path,comb,len);
-        //call(comb);
     }
     
     string next() {
-        string ret=tost(comb[cur]);
+        string ret=comb[cur];
         cur++;
         return ret;
     }
