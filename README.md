@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/B1329061/LeetCode/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/B1329061/LeetCode/tree/master/0338-counting-bits) |
 ## Greedy
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
