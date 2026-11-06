@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
+| [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/B1329061/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/B1329061/LeetCode/tree/master/0338-counting-bits) |
+| [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
