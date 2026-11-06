@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/B1329061/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/B1329061/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/B1329061/LeetCode/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/B1329061/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/B1329061/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/B1329061/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/B1329061/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0119-pascals-triangle-ii](https://github.com/B1329061/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/B1329061/LeetCode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
