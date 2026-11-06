@@ -127,18 +127,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
