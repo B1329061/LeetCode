@@ -19,6 +19,18 @@ private:
         int rightSum=querySum(qL,qR,mid+1,R,2*v+2,ST);
         return leftSum+rightSum;
     }
+
+    inline void upd(int index,int val,int L,int R,int v,vector<int>& ST){
+        if(L==R){
+            ST[v]=val;
+            return;
+        }
+        int mid=(L+R)/2;
+        if(index<=mid)upd(index,val,L,mid,2*v+1,ST);
+        else upd(index,val,mid+1,R,2*v+2,ST);
+        ST[v]=ST[2*v+1]+ST[2*v+2];
+        return ;
+    }
 public:
     int IntervalSum(vector<int>& nums) {
         vector<int>ref={1,3,5,7,9,11};
