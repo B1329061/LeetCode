@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/B1329061/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/B1329061/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/B1329061/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/B1329061/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2643-row-with-maximum-ones](https://github.com/B1329061/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/B1329061/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/B1329061/LeetCode/tree/master/0338-counting-bits) |
+| [0931-minimum-falling-path-sum](https://github.com/B1329061/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
