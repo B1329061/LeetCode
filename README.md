@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/B1329061/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/B1329061/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/B1329061/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/B1329061/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/B1329061/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/B1329061/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/B1329061/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/B1329061/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/B1329061/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B1329061/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/B1329061/LeetCode/tree/master/0338-counting-bits) |
 | [0931-minimum-falling-path-sum](https://github.com/B1329061/LeetCode/tree/master/0931-minimum-falling-path-sum) |
