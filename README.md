@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/B1329061/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3379-transformed-array](https://github.com/B1329061/LeetCode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/B1329061/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3701-compute-alternating-sum](https://github.com/B1329061/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/B1329061/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/B1329061/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/B1329061/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3663-find-the-least-frequent-digit](https://github.com/B1329061/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/B1329061/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/B1329061/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/B1329061/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3842-toggle-light-bulbs](https://github.com/B1329061/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/B1329061/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/B1329061/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/B1329061/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Matrix
 |  |
 | ------- |
