@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/B1329061/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/B1329061/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/B1329061/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/B1329061/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/B1329061/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/B1329061/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/B1329061/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0623-add-one-row-to-tree](https://github.com/B1329061/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/B1329061/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/B1329061/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/B1329061/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/B1329061/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/B1329061/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/B1329061/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/B1329061/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
