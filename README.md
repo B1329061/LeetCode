@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/B1329061/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/B1329061/LeetCode/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/B1329061/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/B1329061/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0398-random-pick-index](https://github.com/B1329061/LeetCode/tree/master/0398-random-pick-index) |
 | [0771-jewels-and-stones](https://github.com/B1329061/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/B1329061/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/B1329061/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/B1329061/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/B1329061/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/B1329061/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/B1329061/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
