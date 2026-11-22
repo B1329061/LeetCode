@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/B1329061/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/B1329061/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0707-design-linked-list](https://github.com/B1329061/LeetCode/tree/master/0707-design-linked-list) |
 | [1286-iterator-for-combination](https://github.com/B1329061/LeetCode/tree/master/1286-iterator-for-combination) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/B1329061/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1603-design-parking-system](https://github.com/B1329061/LeetCode/tree/master/1603-design-parking-system) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/B1329061/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/B1329061/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0707-design-linked-list](https://github.com/B1329061/LeetCode/tree/master/0707-design-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/B1329061/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Backtracking
 |  |
