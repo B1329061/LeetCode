@@ -7,6 +7,13 @@ public:
         return val;
     }
     int evalRPN(vector<string>& tokens) {
+
+        const auto init = []() {
+            ios_base::sync_with_stdio(false);
+            cin.tie(NULL);
+            return 0;
+        }();
+
         if (!tokens.size())
             return 0;
         stack<int> s;
