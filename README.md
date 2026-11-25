@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/B1329061/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/B1329061/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/B1329061/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/B1329061/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/B1329061/LeetCode/tree/master/0707-design-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/B1329061/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -353,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/B1329061/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/B1329061/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
